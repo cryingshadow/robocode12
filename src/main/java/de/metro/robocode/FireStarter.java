@@ -2,6 +2,8 @@ package de.metro.robocode;
 
 import robocode.*;
 
+import java.awt.*;
+
 public class FireStarter extends AdvancedRobot {
 
     /**
